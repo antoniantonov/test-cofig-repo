@@ -6,4 +6,4 @@ configuration:
   highAvailability: "Enabled"
   database: 
     type: "PostgreSQL"
-    engineVersion: "18.5.19"
+    engineVersion: "18.5.20"
