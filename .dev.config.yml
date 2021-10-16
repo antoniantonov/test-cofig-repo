@@ -1,0 +1,9 @@
+configuration:
+  id: "5c737b52-7d78-44ef-baa1-c40c87e39dc8"
+  version: "1.0"
+  region: "Central US"
+  cloud: "AWS"
+  highAvailability: "Enabled"
+  database: 
+    type: "PostgreSQL"
+    engineVersion: "18.5.19"
